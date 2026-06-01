@@ -1,0 +1,79 @@
+# BANGLADESH CAPITAL MARKET REGULATORY FRAMEWORK AND INVESTMENT GUIDE
+
+## SECTION 1: APEX REGULATORY FRAMEWORK (BSEC)
+The Bangladesh Securities and Exchange Commission (BSEC) is the apex regulatory body overseeing capital markets in Bangladesh.
+*   **Establishment:** Formed under the Securities and Exchange Commission Act, 1993.
+*   **Mandate:** Protect retail and institutional investors, ensure fair, transparent and efficient market operations, and regulate securities and stock exchanges (Dhaka Stock Exchange - DSE, and Chittagong Stock Exchange - CSE).
+*   **Key Governing Acts:**
+    1.  **Securities and Exchange Ordinance, 1969:** Grants BSEC the power to regulate trading, prevent manipulation, and enforce listing/delisting guidelines.
+    2.  **Securities and Exchange Commission Act, 1993:** Established BSEC as an independent regulatory authority.
+    3.  **Companies Act, 1994:** Governs corporate structure, shareholder rights, financial transparency, auditing standards, and liquidation processes of listed companies.
+
+---
+
+## SECTION 2: INVESTOR ELIGIBILITY & REGISTRATION (BO ACCOUNTS)
+To invest in Bangladeshi stock markets, both local and foreign investors must hold a Beneficiary Owner (BO) account.
+*   **What is a BO Account?** An electronic depository account managed by Central Depository Bangladesh Limited (CDBL) to hold and settle shares electronically.
+*   **Opening a BO Account (Local Investors):**
+    *   Requires a registered broker house (Depository Participant or DP).
+    *   Documents: National ID (NID), Passport-sized photographs, Bank Account details (with Routing Number for dividend disbursement), and e-TIN (Tax Identification Number) certificate.
+*   **Opening a BO Account (Foreign / Non-Resident Bangladeshi - NRB Investors):**
+    *   Must open a NITA (Non-Resident Investor's Taka Account) with a designated custodian bank in Bangladesh to route foreign currency.
+    *   Documents: Valid Passport copies, foreign bank account details, photographs, and power of attorney (POA) if trading through a local representative.
+
+---
+
+## SECTION 3: DHAKA STOCK EXCHANGE (DSE) TRADING RULES & CIRCUIT BREAKERS
+*   **Trading Days:** Sunday to Thursday.
+*   **Trading Hours:** 10:00 AM to 2:30 PM (pre-open sessions from 9:45 AM - 10:00 AM, post-closing sessions from 2:30 PM - 2:40 PM).
+*   **Circuit Breakers (Daily Price Limit):**
+    *   BSEC enforces circuit breakers to prevent extreme volatility and speculative manipulation.
+    *   Standard daily limit for price movement (upward or downward) is capped at a maximum of **10%**.
+    *   **Price-Tiered Volatility Caps:**
+        *   For stocks priced up to Tk. 200: Daily limit is 10%.
+        *   Tk. 201 to Tk. 500: Daily limit is 8.75%.
+        *   Tk. 510 to Tk. 1,000: Daily limit is 7.5%.
+        *   Tk. 1,001 to Tk. 2,000: Daily limit is 6.25%.
+        *   Tk. 2,001 to Tk. 5,000: Daily limit is 5.0%.
+        *   Above Tk. 5,001: Daily limit is 3.75%.
+    *   **Exceptions:** Circuit breakers are lifted/not active on the first day of trading post-dividend declaration or on the debut trading day of a new Initial Public Offering (IPO).
+*   **Trading Settlement Cycles:**
+    *   **A, B, G, and N Categories:** T+2 settlement cycle (Shares and funds settle two working days after the transaction date).
+    *   **Z Category (Junk/Underperforming Stocks):** T+3 settlement cycle.
+
+---
+
+## SECTION 4: MARGIN LOAN REGULATIONS
+*   **What is a Margin Loan?** Borrowed funds provided by brokers to investors to purchase shares, using the investor's current portfolio as collateral.
+*   **Regulations:**
+    *   BSEC strictly regulates the debt-to-equity margin ratio (usually capped at 1:1 or less, meaning Tk. 1 of own funds allows maximum Tk. 1 or Tk. 0.5 of borrowed funds).
+    *   **Margin Rules 2025 Draft Updates:** Strict limits on who can access margin loans. Retirees, students, or individuals without regular income are prohibited from accessing margin accounts to protect them from high financial risk.
+    *   **Margin Call & Force Sale:** If the portfolio value drops below the Maintenance Margin level (usually 120-130% of the loan amount), the broker issues a margin call. If the investor fails to deposit cash/shares, the broker executes a "force sale" of shares to recover the loan.
+
+---
+
+## SECTION 5: TAXATION ON STOCK INVESTMENTS
+*   **Capital Gains Tax (CGT):**
+    *   A flat **15%** tax rate applies to capital gains from listed securities trading.
+    *   Applicable to individual and institutional investors.
+    *   Applies specifically on annual capital gains exceeding **Tk. 50 Lakh (5,000,000 BDT)**.
+*   **Dividend Income Tax:**
+    *   Dividends distributed by listed companies are subject to withholding tax at source:
+        *   10% for residents with a valid e-TIN.
+        *   15% for residents without a valid e-TIN.
+        *   20% for foreign institutional investors.
+        *   25% for foreign individual investors (may be adjusted under double-taxation treaties).
+
+---
+
+## SECTION 6: FOREIGN PORTFOLIO INVESTMENT POLICIES
+*   **Full Repatriation:** Foreign investors enjoy 100% repatriation rights. All invested capital, capital gains, and dividends can be fully converted back to foreign currency and repatriated overseas via the custodian bank without prior permission from the Bangladesh Bank.
+*   **Equity Ownership:** Foreigners can own up to 100% equity in listed companies (except in highly regulated sectors like aviation or state-defense monopolies).
+*   **Equal Rights:** Foreign portfolio investors have equal voting and dividend rights as local shareholders.
+
+---
+
+## SECTION 7: PROHIBITIONS AND COMPLIANCE (MARKET INTEGRITY)
+*   **Insider Trading:** Under the BSEC (Prohibition of Insider Trading) Rules, any person holding price-sensitive information (directors, sponsors, auditors, advisors) is strictly prohibited from trading or sharing information before official public disclosure.
+*   **Market Manipulation:** Artificially pumping stock prices through circular trading, spoofing, wash sales, or spreading false financial rumors is an offense punishable by heavy fines and imprisonment.
+*   **Continuous Disclosure:** Listed companies must publish audited annual financial statements within 120 days of the financial year-end and quarterly un-audited financials within 30-45 days. Failure leads to penalties or suspension.
